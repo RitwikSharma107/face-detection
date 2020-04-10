@@ -44,7 +44,7 @@ class Register extends React.Component {
                 this.props.onRouteChange("signin");        
             }
             else{
-                alert("Incomplete fields !!!");
+                alert("Incorrect registration !!!");
             }
         })
         
