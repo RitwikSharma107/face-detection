@@ -152,3 +152,5 @@ class App extends Component{
 }
 
 export default App;
+
+alert("Hi, this is RITWIK SHARMA. Welcome to my project :)");
