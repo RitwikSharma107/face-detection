@@ -8,3 +8,6 @@
 
 ### 3) Run `npm start` to run the project at localhost.
 
+### 4) You must add your own API key in the App.js file to connect to Clarifai API.
+
+You can grab Clarifai API key [here](https://www.clarifai.com/)
