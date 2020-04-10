@@ -6,7 +6,7 @@ const ImageLinkForm = ({onInputChange,onButtonSubmit}) =>  {
   return (
     <div>
         <p id="indication" className="f3 center">
-            Enter any image for face detection,
+            Enter any image URL for face detection,
         </p>
         <div className="center">
               <input type='text' onChange={onInputChange}></input>
